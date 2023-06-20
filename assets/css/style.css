@@ -7857,8 +7857,7 @@ textarea.form-control {
 }
 
 .services-carousel .slick-dots {
-  margin-top: 40px;
-  text-align: left;
+  margin-top: 0px;
 }
 
 .services-carousel .slick-list {
